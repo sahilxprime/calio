@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Calio</string>
+    <string name="title_activity_main">Calio</string>
+    <string name="package_name">com.primexsahil.Calio</string>
+    <string name="custom_url_scheme">com.primexsahil.Calio</string>
+</resources>
